@@ -1,0 +1,8 @@
+{D:/DSD simulation projects/practice_half_adder.v} {1 {vlog -work practoce_dsd_lab -stats=none {D:/DSD simulation projects/practice_half_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module practice_half_adder
+
+Top level modules:
+	practice_half_adder
+
+} {} {}}
